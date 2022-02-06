@@ -13,6 +13,11 @@ Create a virtual environment
 ```
 ## Intalation 
 
+```bash
+    git clone https://github.com/kartien/G_password.git
+
+```
+
 Use the package manager pip to install requeriments
 
 ```bash
