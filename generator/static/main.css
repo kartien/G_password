@@ -1,0 +1,31 @@
+body{
+    background-image: url("images/teclado.jpg");
+}
+
+.about{
+    color: black;
+    width: 1000px;
+    background-color: #ECEAE9;
+    border: 1px solid white;
+     
+}
+.view{
+    background: #100F10;
+    color: green;
+}
+.button{
+    border-radius: 18px;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 19px;
+}
+.button:hover{
+    background: green;
+}
+#result{
+    font-family: Arial;
+    font-size: 26px;
+}
+#result:hover{
+    color: #433CDC;
+}
