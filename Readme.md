@@ -1,21 +1,25 @@
 # Password Generator
+
 ## Description
 Password generator made with python and its framework django.
 
 Very practical example to learn more about the backend.
 
-## Reconmmendation 
-
+## Reconmmendation
 Create a virtual environment
-
 ```bash
-    python -m virtualenv venv
+    python -m venv env 
+``` 
+# Start project 
+```bash
+# run script start.sh on linux or mac, remember to give permissions to the script 
+./start.sh 
 ```
-## Intalation 
+#
 
+## Clone project
 ```bash
     git clone https://github.com/kartien/G_password.git
-
 ```
 
 Use the package manager pip to install requeriments
