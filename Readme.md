@@ -1,5 +1,5 @@
 # Password Generator
-
+ [![My Skills](https://skillicons.dev/icons?i=python,django,html,bash,bootstrap,css)](https://skillicons.dev)
 ## Description
 Password generator made with python and its framework django.
 
@@ -10,7 +10,7 @@ Create a virtual environment
 ```bash
     python -m venv env 
 ``` 
-# Start project 
+# Start project
 ```bash
 # run script start.sh on linux or mac, remember to give permissions to the script 
 ./start.sh 
