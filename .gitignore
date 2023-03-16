@@ -1,7 +1,11 @@
+**/__pychache__**
+env
+db.sqlite3
+.vscode
 media
 
-**/__pychache__**
 
-venv 
-db.sqlite3
+ 
+
+ 
 
